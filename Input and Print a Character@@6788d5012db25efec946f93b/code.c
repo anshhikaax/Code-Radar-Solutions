@@ -1,8 +1,10 @@
 // Your code here...
 #include<stdio.h>
-main() {
+int main() {
     char ch;
     printf("enter char");
     scanf("%c",&ch);
-    printf("%c",ch);
+    printf("you entered:%c\n",ch);
+
+    return 0;
 }
