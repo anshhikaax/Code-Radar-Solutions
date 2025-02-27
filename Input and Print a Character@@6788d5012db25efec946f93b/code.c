@@ -1,6 +1,7 @@
 // Your code here...
 #include<stdio.h>
-int main() {
+int main()  
+{
     char ch;
     printf("");
     scanf("%c",&ch);
